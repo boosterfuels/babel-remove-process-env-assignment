@@ -1,0 +1,22 @@
+{
+  "name": "babel-remove-process-env-assignment",
+  "version": "0.0.1",
+  "description": "Remove assignments to `process.env.*`",
+  "main": "index.js",
+  "author": "Valeri Karpov <val@boosterfuels.com>",
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boosterfuels/babel-remove-process-env-assignment.git"
+  },
+  "devDependencies": {
+    "acquit": "0.4.0",
+    "babel-core": "6.8.0",
+    "chai": "3.5.0",
+    "istanbul": "0.3.5",
+    "mocha": "2.0.1"
+  },
+  "scripts": {
+    "test": "mocha ./test.js"
+  }
+}
