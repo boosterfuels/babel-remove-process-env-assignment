@@ -1,4 +1,4 @@
-module.exports = function ({ types: t }) {
+module.exports = function () {
   return {
     visitor: {
       AssignmentExpression(path) {
