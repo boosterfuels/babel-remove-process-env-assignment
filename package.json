@@ -1,6 +1,6 @@
 {
   "name": "babel-remove-process-env-assignment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Remove assignments to `process.env.*`",
   "main": "index.js",
   "author": "Valeri Karpov <val@boosterfuels.com>",
